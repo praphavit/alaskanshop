@@ -21,12 +21,11 @@ export default function Footer() {
                         <div className="max-w-md">
                             <div className="relative inline-block mb-3">
                                 <h3
-                                    className="text-sm md:text-base font-bold text-gray-600 underline decoration-gray-400 underline-offset-4"
+                                    className="text-sm md:text-base font-bold text-gray-600"
                                     style={{ fontFamily: "'Kanit', sans-serif" }}
                                 >
                                     เกี่ยวกับเรา
                                 </h3>
-                                <div className="absolute -bottom-1 left-0 w-full h-[1.5px] bg-gray-400"></div>
                             </div>
                             <p
                                 className="text-[10px] md:text-xs lg:text-sm text-gray-500 leading-relaxed"
